@@ -21,7 +21,7 @@
 
 #define WIDTH           197                 //BOTH MUST BE GREATER THAN 27
 #define HEIGHT          46
-#define PLANT_ENERGY    80
+#define PLANT_ENERGY    90
 #define REP_ENERGY      200         //energy required for reproduction
 
 
