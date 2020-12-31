@@ -408,7 +408,7 @@ void posDisplay()
                                                 if(dmode == 'e'){
 			    
                                                         if(animals[k].energy < (0.2*REP_ENERGY)){
-                                                            cout<<FRED("\u2688");
+                                                            cout<<FRED("\u2687");
                                                         }
                                                         else if(animals[k].energy > (0.75*REP_ENERGY)){
                                                             cout<<BOLD(FBLU("\u2688"));
